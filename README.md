@@ -1,4 +1,4 @@
 # practice
 for practicing
 to learn the git 
-get the complete idea about git
+repeating the steps for practice
